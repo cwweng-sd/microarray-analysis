@@ -2,7 +2,7 @@
 #
 # Date: 2018/11/13
 # Upgrade: 2021/1/31
-# Author: Jeff Chia-Wei Weng
+# Author: C.W.Weng(Jeff)
 
 ### install packages
 install.packages("gplots")
